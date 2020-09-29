@@ -1,7 +1,7 @@
 # Machine Learning Algorithms from scratch
 
 This repository regroups multiple projects of machine learning algorithms implemented from scratch.<br>
-A large amount of from scratch implementation articles are posted on Internet but most of them only explain how to code the solution and just scratch the surface of the theory.
+A large amount of from scratch implementation articles are posted on Internet but most of them only explain how to code the solution without really explaining the theory behind those algorithms.
 The posts of this repository are in-depth articles clearly explaining your favorite algorithms.
 
 You will be able to find nicely formatted notebooks, full of explanations, latex formulas and fully documented implementations here:
